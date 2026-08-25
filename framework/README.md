@@ -80,7 +80,6 @@ Veja [QUICKSTART.md](QUICKSTART.md) para aplicar em um projeto novo e [FRAMEWORK
 docs/       explicação curta de cada etapa
 templates/  modelos dos artefatos canônicos
 prompts/    prompts prontos para executar cada etapa
-scripts/    bootstrap e checagem simples
 examples/   exemplo mínimo de organização de projeto
 ```
 
