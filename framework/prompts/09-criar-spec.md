@@ -10,7 +10,7 @@ Crie:
 
 A SPEC deve definir:
 
-- User Outcome;
+- Outcome;
 - contexto;
 - In Scope;
 - Out of Scope;
@@ -30,7 +30,7 @@ Regras:
 - SPEC define comportamento, não implementação;
 - siga a terminologia e os boundaries das fontes canônicas.
 
-Após criar a SPEC, delegue sua revisão aos agentes especializados relevantes ao slice.
+Após criar a SPEC, revise-a com os agentes ou especialidades relevantes quando estiverem disponíveis.
 
 Se houver reprovação, corrija a SPEC e submeta novamente à revisão.
 

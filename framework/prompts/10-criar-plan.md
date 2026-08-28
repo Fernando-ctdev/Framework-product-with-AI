@@ -1,7 +1,6 @@
 # Prompt — Criar PLAN do Slice Atual
 
-Leia `AGENTS.md`, as fontes canônicas, `docs/delivery/SLICES.md`
-e a SPEC aprovada do slice atual.
+Leia `AGENTS.md`, as fontes canônicas, `docs/delivery/SLICES.md` e a SPEC aprovada do slice atual.
 
 Crie:
 
@@ -28,7 +27,7 @@ Regras:
 - prefira a menor solução correta;
 - não introduza infraestrutura ou abstrações especulativas.
 
-Após criar o PLAN, delegue sua revisão aos agentes especializados relevantes ao slice.
+Após criar o PLAN, revise-o com os agentes ou especialidades relevantes quando estiverem disponíveis.
 
 Se houver reprovação, corrija o PLAN e submeta novamente à revisão.
 
